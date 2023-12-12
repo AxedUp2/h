@@ -1,0 +1,40 @@
+Roblox Scripts
+
+ROBLOX Bitcoin Miner Script
+This link has hacks for Roblox Bitcoin Miner (Executor needed)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xv3nm/lua-rblx-repo/main/Projects/CryptoKingpin"))()
+
+ROBLOX Evade OP Blox Fruits Script
+This link has hacks for Blox Fruits (Executor needed)
+https://bit.ly/3RGAZZl
+
+ROBLOX Chat Bypass Script
+This script lets you bypass Roblox chat filters, press Q to activate (Executor Needed)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/synnyyy/synergy/additional/betterbypasser",true))()
+
+ROBLOX Anime Fighting Simulator Auto-Farm Script
+This script lets you autofarm inside Anime Fighting Simulator (Executor needed)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/synnyyy/synergy/additional/betterbypasser",true))()
+
+ROBLOX Anime Fighting Simulator Infinite Yen Script
+This script lets you obtain infinite yen inside Anime Fighting Simulator (Executor needed)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/animefightingsimulator%22))()
+
+ROBLOX Arsenal Aimbot Hacks Script
+This script lets you have aimbot, ESP, and other various hacks in Arsenal (Executor needed)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+
+ROBLOX Muder Mystery Hub Hacks Script
+This script lets you have xray, fast walk speed, fly toggle, and many more hacks (Executor needed)
+
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Drifter0507/GUIS/main/MURDER%20MYSTERY%202", true))();
+
+ROBLOX Bee Swarm Simulator Auto Sell + Dig Script
+This script lets you automatically sell, dig, and kill mobs inside Bee Swarm Simulator (Executor needed)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NukeVsCity/TheALLHACKLoader/main/NukeLoader"))()
